@@ -1,0 +1,4 @@
+debug: 1 # debug mode 0 | 1
+mysql_host: localhost
+mysql_user: root
+mysql_pass: myRootP@ss
